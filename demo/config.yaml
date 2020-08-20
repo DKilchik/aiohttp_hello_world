@@ -1,3 +1,5 @@
 # Our default config file
 
 site_name : 'Demo site'
+
+database_uri: ...
