@@ -9,4 +9,6 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 multidict==4.7.6
 typing-extensions==3.7.4.2
+uvloop==0.14.0
 yarl==1.5.1
+PyYAML~=5.3.1
