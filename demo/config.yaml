@@ -2,4 +2,4 @@
 
 site_name : 'Demo site'
 
-database_uri: ...
+database_uri: postgresql://postgres:1@localhost:5453/demo
